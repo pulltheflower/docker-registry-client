@@ -1,4 +1,4 @@
-module gitlab.com/pulltheflower/docker-registry-client
+module github.com/pulltheflower/docker-registry-client
 
 go 1.17
 
